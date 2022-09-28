@@ -5,17 +5,20 @@ project:
 website:
   title: "UAZ CAST Data Literacy Project"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
-      - href: tutorials.qmd
-        text: Tutorials
+      - href: walkthrough.qmd
+        text: Tutorials 
       - href: team.qmd
         text: Team
       - href: contact.qmd
         text: Contact
+
+  
+       
 
 format:
   html:

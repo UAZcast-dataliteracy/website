@@ -1,7 +1,8 @@
 ---
-title: "Hello, Quarto"
+title: "Tutorials"
 format: html
 ---
+Virtual Lab Tutorials
 
 ## Markdown
 
