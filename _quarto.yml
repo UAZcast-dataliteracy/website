@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "UAZ CAST Data Literacy Project"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: walkthrough.qmd
+        text: Tutorials 
+      - href: team.qmd
+        text: Team
+      - href: contact.qmd
+        text: Contact
+
+  
+       
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+
+
