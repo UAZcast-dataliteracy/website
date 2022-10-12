@@ -4,30 +4,24 @@ format: html
 ---
 Virtual Lab Tutorials
 
-## Markdown
+## [Getting Started with Tableau](/tableau.html)
 
-Markdown is an easy to read and write text format:
+>Add a excerpt or intro to the tutorial.
 
-- It's _plain text_ so works well with version control
-- It can be **rendered** into HTML, PDF, and more
-- Learn more at: <https://quarto.org/docs/authoring/>
+## [Getting Started with Jupyter Notebook ](/jupyter.html)
 
-## Code Cell
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-Here is a Python code cell.
 
-Install the VS Code Python Extension to enable
-running this cell interactively.
 
-```{python}
-import os
-os.cpu_count()
-```
+## [Getting Started with R](/r-tutorial.html)
+Example:
 
-## Equation
-
-Use LaTeX to write equations:
+>Use LaTeX to write equations:
 
 $$
 \chi' = \sum_{i=1}^n k_i s_i^2
 $$
+
+## [Creating Data Visualization Plots with Tableau](/data-visual-tableau.html)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

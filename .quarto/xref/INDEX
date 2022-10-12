@@ -16,5 +16,20 @@
   },
   "walkthrough.qmd": {
     "walkthrough.html": "c2201e4c"
+  },
+  "tableau.qmd": {
+    "tableau.html": "fd2ec8b1"
+  },
+  "jupyter.qmd": {
+    "jupyter.html": "a25e0783"
+  },
+  "r.qmd": {
+    "r.html": "9cefdd95"
+  },
+  "r-tutorial.qmd": {
+    "r-tutorial.html": "ed68abb7"
+  },
+  "data-vistual-tableau.qmd": {
+    "data-vistual-tableau.html": "a7b2fe75"
   }
 }

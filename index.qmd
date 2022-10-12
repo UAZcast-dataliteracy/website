@@ -1,8 +1,12 @@
 ---
-title: "mysite"
+title: "Project Description"
 ---
 
-This is a Quarto website.
 
+Undergraduate Data Literacy: An Interdisciplinary, Community-Informed, Teaching and Research Program
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Data literacy is defined as "the ability to read, work with, analyze, and argue with data as part of a broader process of inquiry into the world." To ensure students are prepared for the fourth industrial revolution, a collaborative interdisciplinary approach to data literacy is now essential.
+
+For students to fully realize data and their sources, interdisciplinary perspectives and skill-sets (from technology to sociology to public policy) must be collaboratively engaged to question, access, handle, and implement data-driven operations; analyze and interpret these operations to solve real-world problems; design systems that can effectively address the complexities of such problems.
+
+In our data literacy lab, we provide research and active learning opportunities for undergraduate students. Students from diverse backgrounds and academic disciplines will work collaboratively to support each other in gaining new skills, perspectives and competencies in data literacy, and connect with community-based mentors as part of the larger data inquiry process.

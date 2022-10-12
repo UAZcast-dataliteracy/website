@@ -1,7 +1,7 @@
 {
-  "hash": "d5f6b2435bc819cab8a2897023fbf66d",
+  "hash": "cd90d3f953158b8989a4361dbd7f270b",
   "result": {
-    "markdown": "---\ntitle: \"Tutorials\"\nformat: html\n---\n\nVirtual Lab Tutorials\n\n## Markdown\n\nMarkdown is an easy to read and write text format:\n\n- It's _plain text_ so works well with version control\n- It can be **rendered** into HTML, PDF, and more\n- Learn more at: <https://quarto.org/docs/authoring/>\n\n## Code Cell\n\nHere is a Python code cell.\n\nInstall the VS Code Python Extension to enable\nrunning this cell interactively.\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport os\nos.cpu_count()\n```\n\n::: {.cell-output .cell-output-display execution_count=4}\n```\n8\n```\n:::\n:::\n\n\n## Equation\n\nUse LaTeX to write equations:\n\n$$\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n$$\n\n",
+    "markdown": "---\ntitle: \"Tutorials\"\nformat: html\n---\n\nVirtual Lab Tutorials\n\n## [Getting Started with Tableau](/tableau.html)\n\nAdd a excerpt or intro to the tutorial.\n\n## [Getting Started with Jupyter Notebook ](/jupyter.html)\n\n> Example\n\nInstall the VS Code Python Extension to enable\nrunning this cell interactively.\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nimport os\nos.cpu_count()\n```\n\n::: {.cell-output .cell-output-display execution_count=18}\n```\n8\n```\n:::\n:::\n\n\n## [Getting Started with R](/r-tutorial.html)\n\nUse LaTeX to write equations:\n\n$$\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n$$\n\n## [Creating Data Visualization Plots with Tableau](/data-visual-tableau.html)\n\n",
     "supporting": [
       "walkthrough_files"
     ],
