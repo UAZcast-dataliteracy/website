@@ -12,6 +12,9 @@ website:
         text: About
       - href: walkthrough.qmd
         text: Tutorials 
+        menu:
+          - contact.qmd
+          - text: Something
       - href: team.qmd
         text: Team
       - href: contact.qmd

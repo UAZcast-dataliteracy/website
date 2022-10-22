@@ -1,1 +1,9 @@
 /* css styles */
+.padding {
+    padding:1.2em;
+}
+
+.video-img img {
+    height:325px;
+    width:500px;
+}

@@ -1,0 +1,61 @@
+---
+title: "Creating Data Visualizations with Tableau"
+format: html
+---
+
+## This is a tutorial template
+
+#### Add Text sections 
+::: {.padding}
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+:::
+
+
+#### Add Images 
+::: {.padding}
+![](images/uazcastimage.png)
+:::
+
+
+#### Add Video Link
+::: {.padding}
+::: {.video-img}
+[![](images/video-image.png)](https://youtu.be/H4hGjvapUBg)
+{{< video https://www.youtube.com/embed/H4hGjvapUBg >}}
+:::
+:::
+
+#### Add Diagrams 
+::: {.padding}
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
+:::
+
+#### Add Equations
+::: {.padding}
+$E = mc^{2}$
+:::
+
+#### Add Code
+::: {.padding}
+```
+code
+```
+:::
+
+#### Add Python Code
+::: {.padding}
+```python
+1 + 1
+```
+:::
+:::{.callout-tip}
+Find Markdown Documentation [here](https://quarto.org/docs/authoring/markdown-basics.html)
+:::
