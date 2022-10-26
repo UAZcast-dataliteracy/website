@@ -4,24 +4,18 @@ format: html
 ---
 Virtual Lab Tutorials
 
-## [Getting Started with Tableau](/tableau.html)
+## [Community Data](/community-data.html)
 
->Add a excerpt or intro to the tutorial.
+> Information on how to use the Community Data Sets.
 
-## [Getting Started with Jupyter Notebook ](/jupyter.html)
+## [Statistical Analysis Tools](/tools.html)
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> Tutorials on Data Visualization tools.
 
 
 
-## [Getting Started with R](/r-tutorial.html)
-Example:
+## [Data Literacy](/data-literacy.html)
 
->Use LaTeX to write equations:
+> Data Literacy Concepts explained.
 
-$$
-\chi' = \sum_{i=1}^n k_i s_i^2
-$$
 
-## [Creating Data Visualization Plots with Tableau](/data-visual-tableau.html)
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
