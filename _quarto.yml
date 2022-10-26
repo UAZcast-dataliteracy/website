@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
+  
   title: "UAZ CAST Data Literacy Project"
   navbar:
+    logo: https://cdn.uadigital.arizona.edu/logos/v1.0.0/ua_wordmark_line_logo_white_rgb.min.svg
     right:
       - href: index.qmd
         text: Home
@@ -19,6 +21,18 @@ website:
         text: Team
       - href: contact.qmd
         text: Contact
+
+
+
+
+  page-footer: 
+    background: dark
+    left: "Copyright 2022, UAZ CAST DATA LITERACY PROJECT" 
+    right: 
+      - icon: github
+        href: https://github.com/UAZcast-dataliteracy
+       
+       
 
   
        

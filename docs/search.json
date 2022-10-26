@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "jupyter.html",
-    "href": "jupyter.html",
-    "title": "Getting Started with Jupyter Notebook",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(E = mc^{2}\\)\n\n\n\n\n\ncode\n\n\n\n\n\n1 + 1\n\n\n\n\n\n\n\nTip\n\n\n\nFind Markdown Documentation here"
-  },
-  {
-    "objectID": "r-tutorial.html",
-    "href": "r-tutorial.html",
-    "title": "Getting Started with R",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(E = mc^{2}\\)\n\n\n\n\n\ncode\n\n\n\n\n\n1 + 1\n\n\n\n\n\n\n\nTip\n\n\n\nFind Markdown Documentation here"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
     "text": "Contact Information"
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Getting Started with Jupyter Notebook",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(E = mc^{2}\\)\n\n\n\n\n\ncode\n\n\n\n\n\n1 + 1\n\n\n\n\n\n\n\nTip\n\n\n\nFind Markdown Documentation here"
   },
   {
     "objectID": "team.html",
@@ -28,18 +21,18 @@
     "text": "Team Information"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Project Description",
-    "section": "",
-    "text": "Data literacy is defined as “the ability to read, work with, analyze, and argue with data as part of a broader process of inquiry into the world.” To ensure students are prepared for the fourth industrial revolution, a collaborative interdisciplinary approach to data literacy is now essential.\nFor students to fully realize data and their sources, interdisciplinary perspectives and skill-sets (from technology to sociology to public policy) must be collaboratively engaged to question, access, handle, and implement data-driven operations; analyze and interpret these operations to solve real-world problems; design systems that can effectively address the complexities of such problems.\nIn our data literacy lab, we provide research and active learning opportunities for undergraduate students. Students from diverse backgrounds and academic disciplines will work collaboratively to support each other in gaining new skills, perspectives and competencies in data literacy, and connect with community-based mentors as part of the larger data inquiry process."
-  },
-  {
-    "objectID": "tableau.html",
-    "href": "tableau.html",
+    "objectID": "community-data.html",
+    "href": "community-data.html",
     "title": "Getting Started with Tableau",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(E = mc^{2}\\)\n\n\n\n\n\ncode\n\n\n\n\n\n1 + 1\n\n\n\n\n\n\n\nTip\n\n\n\nFind Markdown Documentation here"
+  },
+  {
+    "objectID": "index.html#undergraduate-data-literacy-an-interdisciplinary-community-informed-teaching-and-research-program",
+    "href": "index.html#undergraduate-data-literacy-an-interdisciplinary-community-informed-teaching-and-research-program",
+    "title": "UAZ CAST Data Literacy Project",
+    "section": "Undergraduate Data Literacy: An Interdisciplinary, Community-Informed, Teaching and Research Program",
+    "text": "Undergraduate Data Literacy: An Interdisciplinary, Community-Informed, Teaching and Research Program\n\nProject Description\n\nData literacy is defined as “the ability to read, work with, analyze, and argue with data as part of a broader process of inquiry into the world.” To ensure students are prepared for the fourth industrial revolution, a collaborative interdisciplinary approach to data literacy is now essential.\nFor students to fully realize data and their sources, interdisciplinary perspectives and skill-sets (from technology to sociology to public policy) must be collaboratively engaged to question, access, handle, and implement data-driven operations; analyze and interpret these operations to solve real-world problems; design systems that can effectively address the complexities of such problems.\nIn our data literacy lab, we provide research and active learning opportunities for undergraduate students. Students from diverse backgrounds and academic disciplines will work collaboratively to support each other in gaining new skills, perspectives and competencies in data literacy, and connect with community-based mentors as part of the larger data inquiry process."
   },
   {
     "objectID": "about.html",
@@ -47,6 +40,13 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "data-literacy.html",
+    "href": "data-literacy.html",
+    "title": "Getting Started with R",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(E = mc^{2}\\)\n\n\n\n\n\ncode\n\n\n\n\n\n1 + 1\n\n\n\n\n\n\n\nTip\n\n\n\nFind Markdown Documentation here"
   },
   {
     "objectID": "tutorials.html",
@@ -70,52 +70,24 @@
     "text": "Virtual Lab Tutorials"
   },
   {
-    "objectID": "walkthrough.html#getting-started-with-tableau",
-    "href": "walkthrough.html#getting-started-with-tableau",
+    "objectID": "walkthrough.html#community-data",
+    "href": "walkthrough.html#community-data",
     "title": "Tutorials",
-    "section": "Getting Started with Tableau",
-    "text": "Getting Started with Tableau\n\nAdd a excerpt or intro to the tutorial."
+    "section": "Community Data",
+    "text": "Community Data\n\nInformation on how to use the Community Data Sets."
   },
   {
-    "objectID": "walkthrough.html#getting-started-with-jupyter-notebook",
-    "href": "walkthrough.html#getting-started-with-jupyter-notebook",
+    "objectID": "walkthrough.html#statistical-analysis-tools",
+    "href": "walkthrough.html#statistical-analysis-tools",
     "title": "Tutorials",
-    "section": "Getting Started with Jupyter Notebook",
-    "text": "Getting Started with Jupyter Notebook\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "section": "Statistical Analysis Tools",
+    "text": "Statistical Analysis Tools\n\nTutorials on Data Visualization tools."
   },
   {
-    "objectID": "walkthrough.html#getting-started-with-r",
-    "href": "walkthrough.html#getting-started-with-r",
+    "objectID": "walkthrough.html#data-literacy",
+    "href": "walkthrough.html#data-literacy",
     "title": "Tutorials",
-    "section": "Getting Started with R",
-    "text": "Getting Started with R\nExample:\n\nUse LaTeX to write equations:\n\n\\[\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n\\]"
-  },
-  {
-    "objectID": "walkthrough.html#creating-data-visualization-plots-with-tableau",
-    "href": "walkthrough.html#creating-data-visualization-plots-with-tableau",
-    "title": "Tutorials",
-    "section": "Creating Data Visualization Plots with Tableau",
-    "text": "Creating Data Visualization Plots with Tableau\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  },
-  {
-    "objectID": "walkthrough.html#creating-data-visualization-plots-with-tableaudata-visual",
-    "href": "walkthrough.html#creating-data-visualization-plots-with-tableaudata-visual",
-    "title": "Tutorials",
-    "section": "Creating Data Visualization Plots with Tableau(/data-visual)",
-    "text": "Creating Data Visualization Plots with Tableau(/data-visual)"
-  },
-  {
-    "objectID": "walkthrough.html#creating-data-visualization-plots-with-tableaudata-visual-tableau",
-    "href": "walkthrough.html#creating-data-visualization-plots-with-tableaudata-visual-tableau",
-    "title": "Tutorials",
-    "section": "Creating Data Visualization Plots with Tableau(/data-visual-tableau)",
-    "text": "Creating Data Visualization Plots with Tableau(/data-visual-tableau)"
-  },
-  {
-    "objectID": "walkthrough.html#creating-data-visualization-plots-with-tableaudata-visual-tableau.html",
-    "href": "walkthrough.html#creating-data-visualization-plots-with-tableaudata-visual-tableau.html",
-    "title": "Tutorials",
-    "section": "Creating Data Visualization Plots with Tableau](/data-visual-tableau.html)",
-    "text": "Creating Data Visualization Plots with Tableau](/data-visual-tableau.html)"
+    "section": "Data Literacy",
+    "text": "Data Literacy\n\nData Literacy Concepts explained."
   }
 ]
