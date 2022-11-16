@@ -12,6 +12,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: community-data.qmd
+        text: Community Data
       - href: walkthrough.qmd
         text: Tutorials 
         menu:
@@ -19,8 +21,7 @@ website:
           - text: Something
       - href: team.qmd
         text: Team
-      - href: contact.qmd
-        text: Contact
+      
 
 
 
