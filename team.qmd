@@ -3,4 +3,21 @@ title: "Team"
 format: html
 ---
 
-Team Information
+
+
+**Li Xu, Ph.D.**\
+College of Applied Science & Technology (CAST)\
+The University of Arizona\
+
+**Sheena Brown Ph.D.**\
+Dean, Academic Affairs\
+Cochise College\
+Designated Campus Colleague at The University of Arizona\
+
+#### Student Research Assistants
+
+**Yassmin A. Gonzalez**\
+Major: Human Services\
+
+**Anna Peel**\
+Major: Applied Computing\
