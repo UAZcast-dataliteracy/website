@@ -9,9 +9,9 @@
   {
     "objectID": "tools.html",
     "href": "tools.html",
-    "title": "Getting Started with Jupyter Notebook",
+    "title": "Statistical Analysis Tools",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(E = mc^{2}\\)\n\n\n\n\n\ncode\n\n\n\n\n\n1 + 1\n\n\n\n\n\n\n\nTip\n\n\n\nFind Markdown Documentation here"
+    "text": "Get Started with Tableau\n\n\n\n\n\nHow to connect data files\n\n\n\n\n\nHow to create visuals"
   },
   {
     "objectID": "team.html",
@@ -23,7 +23,7 @@
   {
     "objectID": "community-data.html",
     "href": "community-data.html",
-    "title": "Getting Started with Tableau",
+    "title": "Community Data",
     "section": "",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(E = mc^{2}\\)\n\n\n\n\n\ncode\n\n\n\n\n\n1 + 1\n\n\n\n\n\n\n\nTip\n\n\n\nFind Markdown Documentation here"
   },
@@ -89,5 +89,215 @@
     "title": "Tutorials",
     "section": "Data Literacy",
     "text": "Data Literacy\n\nData Literacy Concepts explained."
+  },
+  {
+    "objectID": "tools.html#statistical-analysis-tools",
+    "href": "tools.html#statistical-analysis-tools",
+    "title": "Statistical Analysis Tools",
+    "section": "Statistical Analysis Tools",
+    "text": "Statistical Analysis Tools\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\nAdd Images\n\n\n\n\n\nAdd Video Link\n\n\n\n\n\n\n\n\n\n\n\n\nAdd Diagrams\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\n\nAdd Equations\n\n\\(E = mc^{2}\\)\n\n\n\nAdd Code\n\ncode\n\n\n\nAdd Python Code\n\n1 + 1\n\n\n\n\n\n\n\nTip\n\n\n\nFind Markdown Documentation here"
+  },
+  {
+    "objectID": "Intro-Text_tables.html",
+    "href": "Intro-Text_tables.html",
+    "title": "UAZ CAST Data Literacy Project",
+    "section": "",
+    "text": "- A table has one or more values in the rows and one or more values in the colums. - Text tables are also known as cross tables or pivot tables. - They are used to show the relationship between a dimesion and a numerical value (Text Table: Key Performance Indicators, n.d.).\n\nText Table: Key Performance Indicators. (n.d.). Tableau. Retrieved November 2, 2022, from https://www.tableau.com/learn/tutorials/on-demand/getting-started-part7?playlist=474706"
+  },
+  {
+    "objectID": "tools.html#text-tables-intro-1",
+    "href": "tools.html#text-tables-intro-1",
+    "title": "Statistical Analysis Tools",
+    "section": "Text Tables Intro",
+    "text": "Text Tables Intro\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "tools.html#text-tables-intro",
+    "href": "tools.html#text-tables-intro",
+    "title": "Statistical Analysis Tools",
+    "section": "Text Tables Intro",
+    "text": "Text Tables Intro\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "tools.html#creating-visuals-with-tabl",
+    "href": "tools.html#creating-visuals-with-tabl",
+    "title": "Statistical Analysis Tools",
+    "section": "Creating Visuals with Tabl",
+    "text": "Creating Visuals with Tabl\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "tools.html#creating-visuals-with-tableau",
+    "href": "tools.html#creating-visuals-with-tableau",
+    "title": "Statistical Analysis Tools",
+    "section": "Creating Visuals with Tableau",
+    "text": "Creating Visuals with Tableau\n\nHow to create visuals"
+  },
+  {
+    "objectID": "downloading_Tableau.html",
+    "href": "downloading_Tableau.html",
+    "title": "UAZ CAST Data Literacy Project",
+    "section": "",
+    "text": "Let’s start with activating your free student license\nVisit [Tableau Student License] ((https://www.tableau.com/academic/students)\nCreate an account with Tableau using student credentials (cat email,____@arizona.edu and university association,student)\nIn your student email inbox look for an email from ‘SheerID Verification’ with subject ‘Your Tableau Desktop Product Key’\nFrom the email select ‘Download Tableau Desktop’\n\n\n\n\nSheerID Verification Email\n\n\n\nDownload Tableau Desktop, be weary of Tableau’s supporting systems, Chrome OS does not support Tableau desktop\n\n\n\n\nOperating Systems\n\n\n\n(screen shot derived from) [Technical Specifications] (https://www.tableau.com/products/techspecs)\n\n\nAfter installation, open desktop app and select ‘Activate with Product Key’ on Tableau\n\n\n\n\nActivating Product\n\n\n\n(e.g. [@Brown, Sheena, Summerworkshop-email-June 30,2022,UA])"
+  },
+  {
+    "objectID": "tools.html#creating-visuals-with-tableau-1",
+    "href": "tools.html#creating-visuals-with-tableau-1",
+    "title": "Statistical Analysis Tools",
+    "section": "Creating Visuals with Tableau",
+    "text": "Creating Visuals with Tableau\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "tools.html#section",
+    "href": "tools.html#section",
+    "title": "Statistical Analysis Tools",
+    "section": "",
+    "text": "Tableau Text Tables"
+  },
+  {
+    "objectID": "tools.html#con",
+    "href": "tools.html#con",
+    "title": "Statistical Analysis Tools",
+    "section": "Con",
+    "text": "Con\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "tools.html#connecting",
+    "href": "tools.html#connecting",
+    "title": "Statistical Analysis Tools",
+    "section": "Connecting",
+    "text": "Connecting\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "tools.html#connecting-data",
+    "href": "tools.html#connecting-data",
+    "title": "Statistical Analysis Tools",
+    "section": "Connecting Data",
+    "text": "Connecting Data\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "tools.html#connecting-data-with-tableau",
+    "href": "tools.html#connecting-data-with-tableau",
+    "title": "Statistical Analysis Tools",
+    "section": "Connecting Data with Tableau",
+    "text": "Connecting Data with Tableau\n\nHow to connect data files"
+  },
+  {
+    "objectID": "tools.html#downloading-tableau",
+    "href": "tools.html#downloading-tableau",
+    "title": "Statistical Analysis Tools",
+    "section": "Downloading Tableau",
+    "text": "Downloading Tableau\n\nGet Started with Tableau"
+  },
+  {
+    "objectID": "tools.html#a",
+    "href": "tools.html#a",
+    "title": "Statistical Analysis Tools",
+    "section": "A",
+    "text": "A\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "tools.html#make-an-area-chart",
+    "href": "tools.html#make-an-area-chart",
+    "title": "Statistical Analysis Tools",
+    "section": "Make an Area Chart",
+    "text": "Make an Area Chart\n\nMake an Area Chart with Tableau"
+  },
+  {
+    "objectID": "tools.html#tutorials-on-tools-for-data-visualization",
+    "href": "tools.html#tutorials-on-tools-for-data-visualization",
+    "title": "Statistical Analysis Tools",
+    "section": "Tutorials on Tools for Data Visualization",
+    "text": "Tutorials on Tools for Data Visualization\n\nDownloading Tableau\n\nGet Started with Tableau\n\n\n\nConnecting Data with Tableau\n\nHow to connect data files\n\n\n\nCreating Visuals with Tableau\n\nHow to create visuals\n\n\n\nMake an Area Chart\n\nMake an Area Chart with Tableau\n\n\n\nText Tables Intro\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "data-literacy.html#tutorials-on-tools-for-data-visualization",
+    "href": "data-literacy.html#tutorials-on-tools-for-data-visualization",
+    "title": "Data Literacy Concepts",
+    "section": "Tutorials on Tools for Data Visualization",
+    "text": "Tutorials on Tools for Data Visualization\n\nStatistics Terms\n\nConcepts to know\n\n\n\nHistograms\n\nHow to connect data files"
+  },
+  {
+    "objectID": "tools.html#tutorials-on-concepts-for-data-visualization",
+    "href": "tools.html#tutorials-on-concepts-for-data-visualization",
+    "title": "Statistical Analysis Tools",
+    "section": "Tutorials on Concepts for Data Visualization",
+    "text": "Tutorials on Concepts for Data Visualization\n\nDownloading Tableau\n\nGet Started with Tableau\n\n\n\nConnecting Data with Tableau\n\nHow to connect data files\n\n\n\nCreating Visuals with Tableau\n\nHow to create visuals\n\n\n\nMake an Area Chart\n\nMake an Area Chart with Tableau\n\n\n\nText Tables Intro\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "community-data.html#tutorials-on-concepts-for-data-visualization",
+    "href": "community-data.html#tutorials-on-concepts-for-data-visualization",
+    "title": "Community Data",
+    "section": "Tutorials on Concepts for Data Visualization",
+    "text": "Tutorials on Concepts for Data Visualization\n\nDownloading Tableau\n\nGet Started with Tableau\n\n\n\nConnecting Data with Tableau\n\nHow to connect data files\n\n\n\nCreating Visuals with Tableau\n\nHow to create visuals\n\n\n\nMake an Area Chart\n\nMake an Area Chart with Tableau\n\n\n\nText Tables Intro\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "community-data.html#tutorials-on",
+    "href": "community-data.html#tutorials-on",
+    "title": "Community Data",
+    "section": "Tutorials on",
+    "text": "Tutorials on\n\nDownloading Tableau\n\nGet Started with Tableau\n\n\n\nConnecting Data with Tableau\n\nHow to connect data files\n\n\n\nCreating Visuals with Tableau\n\nHow to create visuals\n\n\n\nMake an Area Chart\n\nMake an Area Chart with Tableau\n\n\n\nText Tables Intro\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "community-data.html#tutorials-on-usin",
+    "href": "community-data.html#tutorials-on-usin",
+    "title": "Community Data",
+    "section": "Tutorials on Usin",
+    "text": "Tutorials on Usin\n\nDownloading Tableau\n\nGet Started with Tableau\n\n\n\nConnecting Data with Tableau\n\nHow to connect data files\n\n\n\nCreating Visuals with Tableau\n\nHow to create visuals\n\n\n\nMake an Area Chart\n\nMake an Area Chart with Tableau\n\n\n\nText Tables Intro\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "community-data.html#tutorials-on-using-community-data",
+    "href": "community-data.html#tutorials-on-using-community-data",
+    "title": "Community Data",
+    "section": "Tutorials on Using Community Data",
+    "text": "Tutorials on Using Community Data\n\nDownloading Tableau\n\nGet Started with Tableau\n\n\n\nConnecting Data with Tableau\n\nHow to connect data files\n\n\n\nCreating Visuals with Tableau\n\nHow to create visuals\n\n\n\nMake an Area Chart\n\nMake an Area Chart with Tableau\n\n\n\nText Tables Intro\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "community-data.html#tutorials-on-using-community-dataset",
+    "href": "community-data.html#tutorials-on-using-community-dataset",
+    "title": "Community Data",
+    "section": "Tutorials on Using Community Dataset",
+    "text": "Tutorials on Using Community Dataset\n\nDownloading Tableau\n\nGet Started with Tableau\n\n\n\nConnecting Data with Tableau\n\nHow to connect data files\n\n\n\nCreating Visuals with Tableau\n\nHow to create visuals\n\n\n\nMake an Area Chart\n\nMake an Area Chart with Tableau\n\n\n\nText Tables Intro\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "community-data.html#tutorials-on-using-the-community-dataset",
+    "href": "community-data.html#tutorials-on-using-the-community-dataset",
+    "title": "Community Data",
+    "section": "Tutorials on Using the Community Dataset",
+    "text": "Tutorials on Using the Community Dataset\n\n\n\n\nConnecting Data to Tableau\n\nHow to Connect the Dataset"
+  },
+  {
+    "objectID": "community-data.html#tutorials-on-using-the-community-data-set",
+    "href": "community-data.html#tutorials-on-using-the-community-data-set",
+    "title": "Community Data",
+    "section": "Tutorials on Using the Community Data Set",
+    "text": "Tutorials on Using the Community Data Set\n\n\n\n\nCommunity Data Website\n\nMore information on the Community Data\n\n\n\nConnecting Data to Tableau\n\nHow to Connect the Data Set"
+  },
+  {
+    "objectID": "data-literacy.html#tutorials-on-concepts-for-data-visualization",
+    "href": "data-literacy.html#tutorials-on-concepts-for-data-visualization",
+    "title": "Data Literacy Concepts",
+    "section": "Tutorials on Concepts for Data Visualization",
+    "text": "Tutorials on Concepts for Data Visualization\n\nStatistics Terms\n\nConcepts to know\n\n\n\nHistograms\n\nHow to connect data files"
+  },
+  {
+    "objectID": "Connecting_Data.html",
+    "href": "Connecting_Data.html",
+    "title": "UAZ CAST Data Literacy Project",
+    "section": "",
+    "text": "Download County Health Rankings & Roadmaps data excel sheet to desktop/laptop.\n\n\nUse link to download [County 2022 Data] (https://docs.google.com/spreadsheets/d/1RzU5DgjJf1hqWez1d29ZHZ-TkJkHYcdt/edit#gid=217844784) 2. Launch Tableau on your laptop/desktop.\n\nPay special attention to the left column. \n\nUnder the highlighted Connect left side of the Tableau screen, click the underlined Microsoft Excel option.\n\n\nTake notice of the pop-up screen, click on the underlined option, then click Open which is highlighted on the bottom right of the pop-up screen. \n\nBe aware that the executing query pop-up screen means Tableau is working on performing the tasks you have assigned it to-do, some tasks or queries( a request for data results from your database or for action on the data, or both) may take longer than others. Do not fear!\n\n\n\n\nExecuting Query\n\n\n\n\nBefore you start working on any tables make sure to check the box Clean with Data Interperter located on the top left column of Tableau.\n\n\n\n\nClean Data\n\n\n\nRight click on your mouse and hold it down to drag and drop the Ranked Measure Data table to the right side of the screen.\n\n\n\n\nDrag and Drop\n\n\n\nDrag and drop Additional Measure Data table right next to Ranked Measure Data to create a connection between tables.\n\n-Be aware that the connection will be unsuccessful at first, it will look like this.\n\n\n\nFirst Attempt at Connection\n\n\n\nPay close attention to the highlighted and underlined areas in the image, particularly to the bottom left corner.\n\n\nSelect matching fields to create this relationship. Click the drop down menu and type in FIPS repeat step for both of the highlighted drop down menus. >This will create a successful connection, changing the red line to an orange one.\n\n\n\n\n\nSuccessful Connection\n\n\n\n\n\n\nMatching Fields\n\n\n\nRepeat the process for Outcomes & Factor Rankings and Outcomes & Factor Subrankings.\n\n\n\n\nRepeat for Outcomes-Subrankings\n\n\nYou have created a web of tables to explore and create with!\n\nAll info obtained from Summer Workshops Data Literacy."
+  },
+  {
+    "objectID": "Important_Vocab.html",
+    "href": "Important_Vocab.html",
+    "title": "UAZ CAST Data Literacy Project",
+    "section": "",
+    "text": "Population\n\na complete set of individual units of our interest. # Sample data points randomly chosen from the corresponding population. # Parameter is a quantity about an entire population. It is often unknown, therefor samples are taken to further comprehend the parameter of the variale/s being measured. # Statistic is a quantity about a selected sample. A calculated statistic is the best estimate of the unknown parameter. # Confidence Intervals a plausable range of values for the population parameter"
+  },
+  {
+    "objectID": "histogram.html",
+    "href": "histogram.html",
+    "title": "Histogram Description",
+    "section": "",
+    "text": "Histograms show the frequency or relative frequency of the distribution of a single variable. 1. A histogram is a graph that is used to demonstrate the density of a single variable. 2. Higher bars represent where the data is more relatively common. 3. The variable that is being measured is always placed on the horizontal axis. The frequency of the variable is always placed on the vertical axis. (derived from summer workshops)"
   }
 ]
