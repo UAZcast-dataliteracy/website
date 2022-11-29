@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "downloading_Tableau.html",
+    "href": "downloading_Tableau.html",
+    "title": "UAZ CAST Data Literacy Project",
+    "section": "",
+    "text": "Let’s start with activating your free student license\nVisit [Tableau Student License] ((https://www.tableau.com/academic/students)\nCreate an account with Tableau using student credentials (cat email,____@arizona.edu and university association,student)\nIn your student email inbox look for an email from ‘SheerID Verification’ with subject ‘Your Tableau Desktop Product Key’\nFrom the email select ‘Download Tableau Desktop’\n\n\n\n\nSheerID Verification Email\n\n\n\nDownload Tableau Desktop, be weary of Tableau’s supporting systems, Chrome OS does not support Tableau desktop\n\n\n\n\nOperating Systems\n\n\n\n(screen shot derived from) [Technical Specifications] (https://www.tableau.com/products/techspecs)\n\n\nAfter installation, open desktop app and select ‘Activate with Product Key’ on Tableau\n\n\n\n\nActivating Product\n\n\n\n(e.g. [@Brown, Sheena, Summerworkshop-email-June 30,2022,UA])"
+  },
+  {
+    "objectID": "Connecting_Data.html",
+    "href": "Connecting_Data.html",
+    "title": "UAZ CAST Data Literacy Project",
+    "section": "",
+    "text": "Download County Health Rankings & Roadmaps data excel sheet to desktop/laptop.\n\n\nUse link to download [County 2022 Data] (https://docs.google.com/spreadsheets/d/1RzU5DgjJf1hqWez1d29ZHZ-TkJkHYcdt/edit#gid=217844784) 2. Launch Tableau on your laptop/desktop.\n\nPay special attention to the left column. \n\nUnder the highlighted Connect left side of the Tableau screen, click the underlined Microsoft Excel option.\n\n\nTake notice of the pop-up screen, click on the underlined option, then click Open which is highlighted on the bottom right of the pop-up screen. \n\nBe aware that the executing query pop-up screen means Tableau is working on performing the tasks you have assigned it to-do, some tasks or queries( a request for data results from your database or for action on the data, or both) may take longer than others. Do not fear!\n\n\n\n\nExecuting Query\n\n\n\n\nBefore you start working on any tables make sure to check the box Clean with Data Interperter located on the top left column of Tableau.\n\n\n\n\nClean Data\n\n\n\nRight click on your mouse and hold it down to drag and drop the Ranked Measure Data table to the right side of the screen.\n\n\n\n\nDrag and Drop\n\n\n\nDrag and drop Additional Measure Data table right next to Ranked Measure Data to create a connection between tables.\n\n-Be aware that the connection will be unsuccessful at first, it will look like this.\n\n\n\nFirst Attempt at Connection\n\n\n\nPay close attention to the highlighted and underlined areas in the image, particularly to the bottom left corner.\n\n\nSelect matching fields to create this relationship. Click the drop down menu and type in FIPS repeat step for both of the highlighted drop down menus. >This will create a successful connection, changing the red line to an orange one.\n\n\n\n\n\nSuccessful Connection\n\n\n\n\n\n\nMatching Fields\n\n\n\nRepeat the process for Outcomes & Factor Rankings and Outcomes & Factor Subrankings.\n\n\n\n\nRepeat for Outcomes-Subrankings\n\n\nYou have created a web of tables to explore and create with!\n\nAll info obtained from Summer Workshops Data Literacy."
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -7,11 +21,39 @@
     "text": "Contact Information"
   },
   {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "Getting Started with Jupyter Notebook",
+    "objectID": "histogram.html",
+    "href": "histogram.html",
+    "title": "Histogram Description",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(E = mc^{2}\\)\n\n\n\n\n\ncode\n\n\n\n\n\n1 + 1\n\n\n\n\n\n\n\nTip\n\n\n\nFind Markdown Documentation here"
+    "text": "Histograms show the frequency or relative frequency of the distribution of a single variable. 1. A histogram is a graph that is used to demonstrate the density of a single variable. 2. Higher bars represent where the data is more relatively common. 3. The variable that is being measured is always placed on the horizontal axis. The frequency of the variable is always placed on the vertical axis. (derived from summer workshops)"
+  },
+  {
+    "objectID": "tools.html#tutorials-on-tools-for-data-visualization",
+    "href": "tools.html#tutorials-on-tools-for-data-visualization",
+    "title": "Statistical Analysis Tools",
+    "section": "Tutorials on Tools for Data Visualization",
+    "text": "Tutorials on Tools for Data Visualization\n\nDownloading Tableau\n\nGet Started with Tableau\n\n\n\nConnecting Data with Tableau\n\nHow to connect data files\n\n\n\nCreating Visuals with Tableau\n\nHow to create visuals\n\n\n\nMake an Area Chart\n\nMake an Area Chart with Tableau\n\n\n\nText Tables Intro\n\nTableau Text Tables"
+  },
+  {
+    "objectID": "12_Steps_Tableau_Visuals.html",
+    "href": "12_Steps_Tableau_Visuals.html",
+    "title": "UAZ CAST Data Literacy Project",
+    "section": "",
+    "text": "Launch the app on your desktop ChromeOS does not support Tableau Desktop\nConnect Tableau to data source of choice E.g [community data 2022] (https://docs.google.com/spreadsheets/d/1RzU5DgjJf1hqWez1d29ZHZ-TkJkHYcdt/edit#gid=217844784) \nThe left column shows the connection to the data source.\nRecommended: Check the box Use Data Interpreter, to clean the data \nDrag Ranked Measure Data file to the right blank sheet.\nDrag Additional Measure Data file to the right blank sheet next to Ranked Measure Data file to create a connection. The image below provides an example of what connecting tables looks like. \nTo make this connection works modify the drop boxes below, and select FIPS for both or the same field depending on data source.\nRepeat the process for Outcomes and Factor Rankings Outcomes and Factor Subrankings, if you are using the community data. Multiple connections could be made depending on the data source of choice.\nOnce the connection is succesful the red connecting line will turn orange.\nGo to “Sheet 1” located at the bottom of the page to start creating graphs of your choice. \nCongratulations, you are ready to begin making visuals, drag variables to the Columns and Rows"
+  },
+  {
+    "objectID": "Important_Vocab.html",
+    "href": "Important_Vocab.html",
+    "title": "UAZ CAST Data Literacy Project",
+    "section": "",
+    "text": "Population\n\na complete set of individual units of our interest. # Sample data points randomly chosen from the corresponding population. # Parameter is a quantity about an entire population. It is often unknown, therefor samples are taken to further comprehend the parameter of the variale/s being measured. # Statistic is a quantity about a selected sample. A calculated statistic is the best estimate of the unknown parameter. # Confidence Intervals a plausable range of values for the population parameter"
+  },
+  {
+    "objectID": "Intro-Text_tables.html",
+    "href": "Intro-Text_tables.html",
+    "title": "UAZ CAST Data Literacy Project",
+    "section": "",
+    "text": "- A table has one or more values in the rows and one or more values in the colums. - Text tables are also known as cross tables or pivot tables. - They are used to show the relationship between a dimesion and a numerical value (Text Table: Key Performance Indicators, n.d.).\n\nText Table: Key Performance Indicators. (n.d.). Tableau. Retrieved November 2, 2022, from https://www.tableau.com/learn/tutorials/on-demand/getting-started-part7?playlist=474706"
   },
   {
     "objectID": "team.html",
@@ -21,11 +63,18 @@
     "text": "Sheena Brown Ph.D.\nDean, Academic Affairs\nCochise College\nDesignated Campus Colleague at The University of Arizona\n\n\nStudent Research Assistants\nYassmin A. Gonzalez\nMajor: Human Services\n\nAnna Peel\nMajor: Applied Computing"
   },
   {
-    "objectID": "community-data.html",
-    "href": "community-data.html",
-    "title": "Getting Started with Tableau",
+    "objectID": "Area_chart.html",
+    "href": "Area_chart.html",
+    "title": "UAZ CAST Data Literacy Project",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(E = mc^{2}\\)\n\n\n\n\n\ncode\n\n\n\n\n\n1 + 1\n\n\n\n\n\n\n\nTip\n\n\n\nFind Markdown Documentation here"
+    "text": "test ## Quick Facts - Area charts are typically used to represent accumulated totals over time. - An area chart is a line chart where the area between the line and the axis are shaded with a color.** - Area charts are a conventional way to display stacked lines. Derived from: Area Charts: Sales by Category; Sales by Segment. (n.d.). Tableau. Retrieved October 29, 2022, from [title] (https://www.tableau.com/learn/tutorials/on-demand/getting-started-part6?playlist=474706)"
+  },
+  {
+    "objectID": "community-data.html#tutorials-on-using-the-community-data-set",
+    "href": "community-data.html#tutorials-on-using-the-community-data-set",
+    "title": "Community Data",
+    "section": "Tutorials on Using the Community Data Set",
+    "text": "Tutorials on Using the Community Data Set\n\n\n\n\nCommunity Data Website\n\nMore information on the Community Data\n\n\n\nConnecting Data to Tableau\n\nHow to Connect the Data Set"
   },
   {
     "objectID": "index.html#undergraduate-data-literacy-an-interdisciplinary-community-informed-teaching-and-research-program",
@@ -42,11 +91,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "data-literacy.html",
-    "href": "data-literacy.html",
-    "title": "Getting Started with R",
-    "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --> B(Round edge)\n  B --> C{Decision}\n  C --> D[Result one]\n  C --> E[Result two]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\\(E = mc^{2}\\)\n\n\n\n\n\ncode\n\n\n\n\n\n1 + 1\n\n\n\n\n\n\n\nTip\n\n\n\nFind Markdown Documentation here"
+    "objectID": "data-literacy.html#tutorials-on-concepts-for-data-visualization",
+    "href": "data-literacy.html#tutorials-on-concepts-for-data-visualization",
+    "title": "Data Literacy Concepts",
+    "section": "Tutorials on Concepts for Data Visualization",
+    "text": "Tutorials on Concepts for Data Visualization\n\nStatistics Terms\n\nConcepts to know\n\n\n\nHistograms\n\nHow to connect data files"
   },
   {
     "objectID": "tutorials.html",

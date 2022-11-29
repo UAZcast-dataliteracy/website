@@ -1,61 +1,41 @@
 ---
-title: "Getting Started with Jupyter Notebook"
+title: "Statistical Analysis Tools"
 format: html
 ---
+::: {.padding}
+:::
+::: {.padding}
+:::
+##  Tutorials on Tools for Data Visualization
 
-## This is a tutorial template
 
-#### Add Text sections 
+### [Downloading Tableau](/downloading_Tableau.html)
 ::: {.padding}
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Get Started with Tableau
 :::
 
-
-#### Add Images 
+### [Connecting Data with Tableau](/Connecting_Data.html)
 ::: {.padding}
-![](images/uazcastimage.png)
+
+How to connect data files
 :::
 
-
-#### Add Video Link
+### [Creating Visuals with Tableau](/12_Steps_Tableau_Visuals.html)
 ::: {.padding}
-::: {.video-img}
-[![](images/video-image.png)](https://youtu.be/H4hGjvapUBg)
-{{< video https://www.youtube.com/embed/H4hGjvapUBg >}}
-:::
+
+How to create visuals
 :::
 
-#### Add Diagrams 
+### [Make an Area Chart](/Area_chart.html)
 ::: {.padding}
-```{mermaid}
-flowchart LR
-  A[Hard edge] --> B(Round edge)
-  B --> C{Decision}
-  C --> D[Result one]
-  C --> E[Result two]
-```
+
+Make an Area Chart with Tableau
 :::
 
-#### Add Equations
+### [Text Tables Intro](/Intro-Text_tables.html)
 ::: {.padding}
-$E = mc^{2}$
+
+Tableau Text Tables
 :::
 
-#### Add Code
-::: {.padding}
-```
-code
-```
-:::
-
-#### Add Python Code
-::: {.padding}
-```python
-1 + 1
-```
-:::
-:::{.callout-tip}
-Find Markdown Documentation [here](https://quarto.org/docs/authoring/markdown-basics.html)
-:::
