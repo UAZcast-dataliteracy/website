@@ -1,5 +1,5 @@
 ---
-title: "Tutorials"
+title: "Tutorials and Play Data"
 format: html
 ---
 Virtual Lab Tutorials
@@ -8,14 +8,9 @@ Virtual Lab Tutorials
 
 > Information on how to use the Community Data Sets.
 
-## [Statistical Analysis Tools](/tools.html)
+## [2024 Data Files to Practice](/2024CommunityDataFiles.html)
 
-> Tutorials on Data Visualization tools.
+> 2024 data files from the County Health Ranking web site to practice
 
-
-
-## [Data Literacy](/data-literacy.html)
-
-> Data Literacy Concepts explained.
 
 
